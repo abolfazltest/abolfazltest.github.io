@@ -4,3 +4,9 @@ header{
     padding: 50px;
     text-align: center;
 }
+footer{
+    background-color: antiquewhite;
+    align-items: center;
+    padding: 50px;
+    text-align: center;
+}
