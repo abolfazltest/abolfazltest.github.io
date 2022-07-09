@@ -7,8 +7,9 @@ header{
     font-size: large;
 }
 footer{
-    background-color: antiquewhite;
+    background-color: rgb(221, 125, 0);
     align-items: center;
     padding: 50px;
     text-align: center;
+    border-radius: 15px;
 }
