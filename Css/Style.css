@@ -1,8 +1,10 @@
 header{
-    background-color: antiquewhite;
+    background-color: rgb(24, 8, 250);
     align-items: center;
     padding: 50px;
     text-align: center;
+    border-radius: 50px;
+    font-size: large;
 }
 footer{
     background-color: antiquewhite;
