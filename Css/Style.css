@@ -1,15 +1,11 @@
-header{
-    background-color: rgb(221, 125, 0);
-    align-items: center;
-    text-align: center;
-    border-radius: 15px;
-    font-size: large;
-    padding: 50px;
+html{
+    box-sizing: border-box;
 }
-footer{
-    background-color: rgb(221, 125, 0);
-    align-items: center;
-    padding: 50px;
-    text-align: center;
-    border-radius: 15px;
+*,*::after,*::before{
+    box-sizing: inherit;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
 }
