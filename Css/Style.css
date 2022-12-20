@@ -1,11 +1,15 @@
-html{
-    box-sizing: border-box;
-}
-*,*::after,*::before{
-    box-sizing: inherit;
+.body-fixed{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
 }
 
-body{
-    padding: 0px;
-    margin: 0px;
+
+button{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: white;
 }
